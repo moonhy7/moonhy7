@@ -47,9 +47,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> &nbsp
   
  <h3><b>Education</b></h3>
-
-
-   <h3>이모지,표</h3>  
+<table></table>
+ 
    <h3>introduce</h3>  
  
    <h3>time</h3>  
