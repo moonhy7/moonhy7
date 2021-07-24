@@ -42,17 +42,16 @@ Here are some ideas to get you started:
 -->
 </p> 
  <h4>Tools</h4>
-  
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> &nbsp
   
-  
+ <h3><b>Education</b></h3>
+
+
    <h3>이모지,표</h3>  
    <h3>introduce</h3>  
-
-   <h3>tools</h3>  
-   <h3>edu</h3>  
+ 
    <h3>time</h3>  
   
   
