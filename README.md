@@ -49,12 +49,13 @@ Here are some ideas to get you started:
 <!-- @@@ 교육사항 @@@ --!>
 
 <h3><b> Education </b></h3>
-<h5> · 경희대학교 수학과 2019.03 - 2021.02 </h5>
-<h5> · 강원대학교 컴퓨터정보통신공학과 2016.03 - 2018.02 </h5>
-<h5> · 하남고등학교 이과계열 2012.03 - 2015.02</h5>
+<h5> ⦁ 경희대학교 수학과 2019.03 - 2021.02 </h5>
+<h5> ⦁ 강원대학교 컴퓨터정보통신공학과 2016.03 - 2018.02 </h5>
+<h5> ⦁ 하남고등학교 이과계열 2012.03 - 2015.02</h5>
+
+<hr>
 
 
- 
 <!-- @@@ 기술 스택 @@@ --!>
 
 <!-- <h2> :muscle:  Skills  </h2> --!>
@@ -96,28 +97,8 @@ Here are some ideas to get you started:
 <h5> · 수학사랑 전공동아리  2019.03 - 2020.12</h5>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonhy7&show_icons=true&theme=radical)
+  
  
-<!-- @@@ 커밋시간통계 @@@ --!>
-   <h3>time</h3>  
- 
-<!-- @@@ 백준티어 프로필 카드 @@@ --!>
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhy7">
-
-
-<!-- @@@ 스탯등급 @@@ --!>
- <h3><b>🛠 Github Stats 🛠</b></h3>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moonhy7&show_icons=true&theme=radical) 
-  
-<!-- @@@ 사용언어통계 @@@ --!>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonhy7&layout=compact&theme=dracula)](https://github.com/metleeha)
-  
- <hr> 
-  
-<!-- @@@ 방문자통계 @@@ --!>
- [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonhy7&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![followers](https://img.shields.io/github/followers/moonhy7?style=social) 
-  
-  
 
 </div>
