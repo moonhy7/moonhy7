@@ -8,10 +8,51 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...   -->
-
+- ⚡ Fun fact: ...   
 <div  align=center><h1>👋 Hi, I’m @hayoon </h1></div> 
+-->
+
+<div><h2>👋 Hi, I’m @hayoon </h2></div> 
 <div>
+ 
+   <!-- @@@ 링크 @@@ --!>
+  
+
+
+<a href="https://www.notion.so/Notion-43c6340da8464bc6916a5f495dd9356b"> 
+      <img 
+           src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Notion-43c6340da8464bc6916a5f495dd9356b"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>
+
+<a href="https://moonhy7.tistory.com/"> 
+      <img 
+           src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=TVTime&logoColor=white&link=https://moonhy7.tistory.com/"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>
+
+
+<a href="https://m.facebook.com/profile.php"> 
+      <img 
+           src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>
+
+<a href="https://m.facebook.com/profile.php"> 
+      <img 
+           src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>
+
+<a href="https://www.instagram.com/hayoon._.96/"> 
+     <img 
+          src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/hayoon._.96/"                       style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>
+ 
+<a href="mailto:moonhy7@naver.com"> 
+      <img 
+           src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2017110453@khu.ac.kr"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>
+
+<!-- @@@ 대외활동 @@@ --!>
+ <h3><b>🛠 Experience 🛠</b></h3>
+ 
  
 <!-- @@@ 기술 스택 @@@ --!>
 
@@ -47,23 +88,26 @@ Here are some ideas to get you started:
  <h3><b>Education</b></h3>
 <table></table>
 
-| Tables   |      Are      |  Cool |
+<!--| Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| col 3 is | right-aligned |    $1 | --!>
 
 <!-- @@@ 자기 소개 @@@ --!>
 
  <h3>introduce</h3>  
  
-
 <!-- @@@ 커밋시간통계 @@@ --!>
    <h3>time</h3>  
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<!-- @@@ 백준티어 프로필 카드 @@@ --!>
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhy7">
+
 
 <!-- @@@ 스탯등급 @@@ --!>
+ <h3><b>🛠 Github Stats 🛠</b></h3>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moonhy7&show_icons=true&theme=radical) 
   
 <!-- @@@ 사용언어통계 @@@ --!>
@@ -76,18 +120,5 @@ Here are some ideas to get you started:
 ![followers](https://img.shields.io/github/followers/moonhy7?style=social) 
   
   
-  <!-- @@@ 링크 @@@ --!>
-  
- <a href="https://moonhy7.tistory.com/"> 
-   <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://moonhy7.tistory.com/" 
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-</a> <a href="https://www.instagram.com/hayoon._.96/"> 
-     <img 
-          src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/hayoon._.96/"                       style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a> <a href="mailto:moonhy7@naver.com"> 
-      <img 
-           src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2017110453@khu.ac.kr"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
- 
+
 </div>
