@@ -26,8 +26,12 @@ Here are some ideas to get you started:
   
  <hr> 
   
- [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- ![followers](https://img.shields.io/github/followers/ohbyul?style=social) 
+ [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonhy7&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ ![followers](https://img.shields.io/github/followers/moonhy7?style=social) 
+  
+  
+  
+  
   
   
  <a href="https://moonhy7.tistory.com/"> 
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
           src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/hayoon._.96/"                       style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a> <a href="mailto:moonhy7@naver.com"> 
       <img 
-           src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonhy7@naver.com"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+           src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2017110453@khu.ac.kr"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
  
 </div>
