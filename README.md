@@ -46,20 +46,12 @@ Here are some ideas to get you started:
            src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
  </a>
 
+<!-- @@@ 교육사항 @@@ --!>
 
-<!-- @@@ 대외활동 @@@ --!>
- <h3><b>🛠 Experience 🛠</b></h3>
-국비교육 Python 기반 응용 웹서비스개발 2020.12 - 2021.02
-전국대학생수학경시대회 은상 수상 2020.12
-프로그래밍동아리 ComMa 부회장 2020.01 - 2021.02
-케코벅스 금융경제학회 2020.09 - 2021.02
-손기정평화마라톤대회 10Km 완주 2019.11
-경희랑달리기 러닝동아리 2019.09 - 2021.02
-수학사랑 전공동아리 2019.03 - 2020.12
-경희대학교 수학과 2019.03 - 2021.02 
-강원대학교 컴퓨터정보통신공학과 2016.03 - 2018.02 
-하남고등학교 이과계열 2012.03 - 2015.02
-
+<h3><b> Education </b></h3>
+<h5> · 경희대학교 수학과 2019.03 - 2021.02 </h5>
+<h5> · 강원대학교 컴퓨터정보통신공학과 2016.03 - 2018.02 </h5>
+<h5> · 하남고등학교 이과계열 2012.03 - 2015.02</h5>
 
 
  
@@ -92,20 +84,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> &nbsp
 
 
-<!-- @@@ 교육사항 @@@ --!>
 
- <h3><b>Education</b></h3>
-<table></table>
+<!-- @@@ 대외활동 @@@ --!>
+<h3><b>🛠 Experience 🛠</b></h3>
+<h5> · 국비교육 Python 기반 응용 웹서비스개발  020.12 - 2021.02</h5>
+<h5> · 전국대학생수학경시대회 은상 수상  2020.12</h5>
+<h5> · 프로그래밍동아리 ComMa 부회장  2020.01 - 2021.02</h5>
+<h5> · 케코벅스 금융경제학회  2020.09 - 2021.02</h5>
+<h5> · 손기정평화마라톤대회 완주  2019.11</h5>
+<h5> · 경희랑달리기 러닝동아리  2019.09 - 2021.02</h5>
+<h5> · 수학사랑 전공동아리  2019.03 - 2020.12</h5>
 
-<!--| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 | --!>
 
-<!-- @@@ 자기 소개 @@@ --!>
-
- <h3>introduce</h3>  
  
 <!-- @@@ 커밋시간통계 @@@ --!>
    <h3>time</h3>  
