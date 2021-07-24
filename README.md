@@ -41,5 +41,5 @@ Here are some ideas to get you started:
       <img 
            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonhy7@naver.com"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
-
+ 
 </div>
