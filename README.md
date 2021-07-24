@@ -12,47 +12,56 @@ Here are some ideas to get you started:
 <div  align=center><h1>👋 Hi, I’m @hayoon </h1></div> 
 -->
 
-<div><h2>👋 Hi, I’m @hayoon </h2></div> 
+<div><h2>👋 Hi, I’m @hayoon </h2></div>
+
 <div>
- 
-   <!-- @@@ 링크 @@@ --!>
-  
-
-
+<!-- @@@ 링크 @@@ --!>
 <a href="https://www.notion.so/Notion-43c6340da8464bc6916a5f495dd9356b"> 
       <img 
            src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Notion-43c6340da8464bc6916a5f495dd9356b"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
 
-<a href="https://moonhy7.tistory.com/"> 
-      <img 
-           src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=TVTime&logoColor=white&link=https://moonhy7.tistory.com/"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
-
-
-<a href="https://m.facebook.com/profile.php"> 
-      <img 
-           src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
-
-<a href="https://m.facebook.com/profile.php"> 
-      <img 
-           src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
-
-<a href="https://www.instagram.com/hayoon._.96/"> 
-     <img 
-          src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/hayoon._.96/"                       style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
- 
 <a href="mailto:moonhy7@naver.com"> 
       <img 
            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2017110453@khu.ac.kr"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
 
+<a href="https://moonhy7.tistory.com/"> 
+      <img 
+           src="https://img.shields.io/badge/Tech Blog-294172?style=flat-square&logo=TVTime&logoColor=white&link=https://moonhy7.tistory.com/"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>
+
+<a href="https://www.instagram.com/hayoon._.96/"> 
+     <img 
+          src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayoon._.96/"                       style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>
+
+<a href="https://github.com/moonhy7"> 
+      <img 
+           src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/moonhy7"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  </a>
+
+<a href="https://m.facebook.com/profile.php"> 
+      <img 
+           src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+ </a>
+
+
 <!-- @@@ 대외활동 @@@ --!>
  <h3><b>🛠 Experience 🛠</b></h3>
- 
+국비교육 Python 기반 응용 웹서비스개발 2020.12 - 2021.02
+전국대학생수학경시대회 은상 수상 2020.12
+프로그래밍동아리 ComMa 부회장 2020.01 - 2021.02
+케코벅스 금융경제학회 2020.09 - 2021.02
+손기정평화마라톤대회 10Km 완주 2019.11
+경희랑달리기 러닝동아리 2019.09 - 2021.02
+수학사랑 전공동아리 2019.03 - 2020.12
+경희대학교 수학과 2019.03 - 2021.02 
+강원대학교 컴퓨터정보통신공학과 2016.03 - 2018.02 
+하남고등학교 이과계열 2012.03 - 2015.02
+
+
+
  
 <!-- @@@ 기술 스택 @@@ --!>
 
