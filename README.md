@@ -46,30 +46,37 @@ Here are some ideas to get you started:
 
  <h3><b>Education</b></h3>
 <table></table>
- 
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 <!-- @@@ 자기 소개 @@@ --!>
 
  <h3>introduce</h3>  
  
+
+<!-- @@@ 커밋시간통계 @@@ --!>
    <h3>time</h3>  
   
-  
-  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moonhy7&show_icons=true&theme=radical) 
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- @@@ 스탯등급 @@@ --!>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moonhy7&show_icons=true&theme=radical) 
+  
+<!-- @@@ 사용언어통계 @@@ --!>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonhy7&layout=compact&theme=dracula)](https://github.com/metleeha)
   
  <hr> 
   
+<!-- @@@ 방문자통계 @@@ --!>
  [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonhy7&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- ![followers](https://img.shields.io/github/followers/moonhy7?style=social) 
+![followers](https://img.shields.io/github/followers/moonhy7?style=social) 
   
   
-  
-  
-  
+  <!-- @@@ 링크 @@@ --!>
   
  <a href="https://moonhy7.tistory.com/"> 
    <img 
