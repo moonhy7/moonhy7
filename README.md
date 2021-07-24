@@ -5,7 +5,7 @@
            src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Notion-43c6340da8464bc6916a5f495dd9356b"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
       
-<a href="mailto:moonhy7@naver.com"> 
+<a href="mailto:2017110453@khu.ac.kr"> 
       <img 
            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2017110453@khu.ac.kr"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
