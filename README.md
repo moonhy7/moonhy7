@@ -1,9 +1,9 @@
 <div><h2>👋 Hi, I’m @hayoon </h2></div>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhy7">
 <div>
-<a href="https://www.notion.so/Notion-43c6340da8464bc6916a5f495dd9356b"> 
+<a href="https://lucky-pickle-30d.notion.site/Notion-43c6340da8464bc6916a5f495dd9356b"> 
       <img 
-           src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Notion-43c6340da8464bc6916a5f495dd9356b"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+           src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://lucky-pickle-30d.notion.site/Notion-43c6340da8464bc6916a5f495dd9356b"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
       
 <a href="mailto:2017110453@khu.ac.kr"> 
