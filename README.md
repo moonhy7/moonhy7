@@ -1,11 +1,14 @@
-<div><h2>👋 Hi, I’m @hayoon </h2></div>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhy7">
-<div>
+<div><h2>👋 Hi, I’m @hayoon </h2>
+      
+ </div>      
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhy7"></div>
+
 <a href="https://lucky-pickle-30d.notion.site/Notion-43c6340da8464bc6916a5f495dd9356b"> 
       <img 
            src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://lucky-pickle-30d.notion.site/Notion-43c6340da8464bc6916a5f495dd9356b"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
-      
+
 <a href="mailto:2017110453@khu.ac.kr"> 
       <img 
            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2017110453@khu.ac.kr"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
@@ -31,6 +34,7 @@
            src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
  </a>
  
+
       
 <dir>
 <h3><b> :books: Education </b></h3>
@@ -38,19 +42,9 @@
 <h5> ⦁ 강원대학교 컴퓨터정보통신공학과 2016.03 - 2018.02 </h5>
 <h5> ⦁ 하남고등학교 이과계열 2012.03 - 2015.02</h5>
 </dir>
-</br>
- <h3><b> :purple_heart: Experience </b></h3>
-<h5> · 국비교육 Python 기반 응용 웹서비스개발  020.12 - 2021.02</h5>
-<h5> · 전국대학생수학경시대회 은상 수상  2020.12</h5>
-<h5> · 프로그래밍동아리 ComMa 부회장  2020.01 - 2021.02</h5>
-<h5> · 케코벅스 금융경제학회  2020.09 - 2021.02</h5>
-<h5> · 손기정평화마라톤대회 완주  2019.11</h5>
-<h5> · 경희랑달리기 러닝동아리  2019.09 - 2021.02</h5>
-<h5> · 수학사랑 전공동아리  2019.03 - 2020.12</h5>
-<hr>
+</br> 
       
-      
-<dir><h3><b>🛠 Tech Stack </b></h3>
+<div align='left'><h3><b>🛠 Tech Stack </b></h3>
 <h4>Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
@@ -65,7 +59,8 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> &nbsp
 </p>
-</dir>
+</div>
+
 </br>
 <h3><b> 🔭 Github Stats </b></h3>
 
