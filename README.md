@@ -34,7 +34,7 @@
            src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
  </a>
  
-
+</br>
       
 <dir>
 <h3><b> :books: Education </b></h3>
