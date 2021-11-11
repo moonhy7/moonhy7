@@ -19,20 +19,20 @@
            src="https://img.shields.io/badge/Tech Blog-294172?style=flat-square&logo=TVTime&logoColor=white&link=https://moonhy7.tistory.com/"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
 
-<!--<a href="https://www.instagram.com/hayoon._.96/"> 
+<a href="https://www.instagram.com/hayoon._.96/"> 
      <img 
           src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayoon._.96/"                       style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>-->
+  </a>
 
 <a href="https://github.com/moonhy7"> 
       <img 
            src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/moonhy7"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
 
-<!--<a href="https://m.facebook.com/profile.php"> 
+<a href="https://m.facebook.com/profile.php"> 
       <img 
            src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
- </a>-->
+ </a>
  
 </br>
       
