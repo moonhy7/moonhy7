@@ -4,7 +4,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhy7"></div>
 
-<a href="https://lucky-pickle-30d.notion.site/Notion-43c6340da8464bc6916a5f495dd9356b"> 
+<a href="https://moonhy7.notion.site/4749b847ce3b4c668ebe5a42e82e0b80"> 
       <img 
            src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://lucky-pickle-30d.notion.site/Notion-43c6340da8464bc6916a5f495dd9356b"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
