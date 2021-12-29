@@ -65,7 +65,7 @@
 
 <!-- 연락처 시작 -->
 ### 📫 How to reach me
-- 링크드인: linkedin.com/in/moonhy7
+- 링크드인: https://www.linkedin.com/in/moonhy7
 - 포트폴리오: <a href="https://moonhy7.notion.site/moonhy7/4749b847ce3b4c668ebe5a42e82e0b80">https://moonhy7.notion.site/moonhy7</a>
 - 이력서: 
 - 기술블로그: https://moonhy7.tistory.com
