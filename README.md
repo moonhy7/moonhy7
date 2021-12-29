@@ -1,45 +1,66 @@
+<!-- 자기소개 시작 -->
 <div align="center">
 <br>
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=%23081C24&size=25&center=true&lines=Hello+World+!+It's+Ha+Yoon.)
-<br>
-
+<br></div>
+ 
 * * *
+<!-- 자기소개 끝 -->
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhy7"></div>
+<!-- 백준 알고리즘 레벨 시작 -->
+<div align='right'>
+   <h3><b>🔑 Algorithm Level 	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;</b></h3>
+   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhy7">
+</div>
+<!-- 백준 알고리즘 레벨 끝 -->
+
+<!-- 연락처 링크 시작 -->
+<h3><b📫 How to reach me</b></h3>
+<ul>
+ <li>portfolio: <a href="https://moonhy7.notion.site/moonhy7/4749b847ce3b4c668ebe5a42e82e0b80">https://moonhy7.notion.site/moonhy7/</a></li>
+ </ul>
+linkedin: https://www.linkedin.com/in/moonhy7
+Resume: 
+tech blog: https://moonhy7.tistory.com/
+email: sigrid.moonhy7@naver.com
 
 <a href="https://moonhy7.notion.site/4749b847ce3b4c668ebe5a42e82e0b80"> 
-      <img 
-           src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://lucky-pickle-30d.notion.site/Notion-43c6340da8464bc6916a5f495dd9356b"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://lucky-pickle-           30d.notion.site/Notion43c6340da8464bc6916a5f495dd9356b" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+</a>
 
 <a href="mailto:2017110453@khu.ac.kr"> 
-      <img 
-           src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2017110453@khu.ac.kr"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
+ <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2017110453@khu.ac.kr" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+</a>
 
 <a href="https://moonhy7.tistory.com/"> 
-      <img 
-           src="https://img.shields.io/badge/Tech Blog-294172?style=flat-square&logo=TVTime&logoColor=white&link=https://moonhy7.tistory.com/"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
+  <img src="https://img.shields.io/badge/Tech Blog-294172?style=flat-square&logo=TVTime&logoColor=white&link=https://moonhy7.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+</a>
 
-<a href="https://www.instagram.com/hayoon._.96/"> 
-     <img 
-          src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayoon._.96/"                       style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
+<a href=""> 
+  <img src="https://img.shields.io/badge/Resume-179C7D?style=flat-square&logo=ReverbNation&logoColor=white&link=https://moonhy7.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+</a>
 
-<!--<a href="https://github.com/moonhy7">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/moonhy7" style="height : auto; margin-left :                        10px; margin-right : 10px;"/> 
-     </a>-->
+<!--<a href="https://www.instagram.com/hayoon._.96/"> 
+ <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayoon._.96/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+</a>
 
-<!--<a href="https://m.facebook.com/profile.php"> 
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                                           style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+<a href="https://github.com/moonhy7">
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/moonhy7" style="height : auto; margin-left :         10px; margin-right : 10px;"/> 
+ </a>
+
+<a href="https://m.facebook.com/profile.php"> 
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
  </a>-->
- 
+
 </br>
-      
+ 
+ 
+<!-- 연락처 링크 끝 -->
+ 
 <dir>
 <h3><b> :books: Education </b></h3>
+<h5> ⦁ 비트캠프 SW 웹개발자 양성과정 2021.07 - 2021.12 </h5>
 <h5> ⦁ 경희대학교 수학과 2019.03 - 2021.02 </h5>
 <h5> ⦁ 강원대학교 컴퓨터정보통신공학과 2016.03 - 2018.02 </h5>
 <h5> ⦁ 하남고등학교 이과계열 2012.03 - 2015.02</h5>
