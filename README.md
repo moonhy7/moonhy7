@@ -1,6 +1,10 @@
-<div><h2>👋 Hi, I’m @hayoon </h2>
-      
- </div>      
+<div align="center">
+<br>
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=%23081C24&size=25&center=true&lines=Hello+World+!+It's+Ha+Yoon.)
+<br>
+
+* * *
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonhy7"></div>
 
@@ -24,15 +28,13 @@
           src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hayoon._.96/"                       style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
   </a>
 
-<a href="https://github.com/moonhy7"> 
-      <img 
-           src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/moonhy7"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-  </a>
+<!--<a href="https://github.com/moonhy7">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/moonhy7" style="height : auto; margin-left :                        10px; margin-right : 10px;"/> 
+     </a>-->
 
-<a href="https://m.facebook.com/profile.php"> 
-      <img 
-           src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
- </a>
+<!--<a href="https://m.facebook.com/profile.php"> 
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://m.facebook.com/profile.php"                                           style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+ </a>-->
  
 </br>
       
