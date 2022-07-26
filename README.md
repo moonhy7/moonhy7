@@ -66,7 +66,7 @@
 <!-- 연락처 시작 -->
 ### 📫 How to reach me
 - 링크드인: https://www.linkedin.com/in/moonhy7
-- 포트폴리오: https://moonhy7.notion.site/moonhy7/4749b847ce3b4c668ebe5a42e82e0b80
+- 포트폴리오: https://spotty-macaroni-115.notion.site/d38ee94211e34c00964a75961a0d4237
 - 이력서: https://drive.google.com/file/d/1ELoJM-sUGDQsZAJgvzK_5ZspCIkd0N6BCNG8--pPWQg/view
 - 기술블로그: https://moonhy7.tistory.com
 - 이메일: moonhy7@naver.com
